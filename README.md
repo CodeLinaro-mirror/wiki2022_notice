@@ -1,4 +1,4 @@
-# FIXED STUFF
+# FIXED STUFF!!
 <div align="center">
 
 <img src="https://static.requarks.io/logo/wikijs-full.svg" alt="Wiki.js" width="600" />
